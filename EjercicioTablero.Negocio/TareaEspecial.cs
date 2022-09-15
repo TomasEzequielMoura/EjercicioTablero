@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EjercicioTablero.Negocio
 {
-    class TareaEspecial
+    public class TareaEspecial
     {
+
     }
 }

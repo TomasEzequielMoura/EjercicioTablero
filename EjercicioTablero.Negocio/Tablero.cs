@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioTablero.Negocio
 {
-    public class Class1
+    public class Tablero
     {
     }
 }
